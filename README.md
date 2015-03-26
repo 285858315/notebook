@@ -1,6 +1,9 @@
+#Node
+* [lodash 一个JavaScript实用程序库](https://github.com/lodash/lodash) 
+* [lazy.js](https://github.com/dtao/lazy.js)
 #JavaScript
 [标准参考](http://javascript.ruanyifeng.com/)  
-http://wtser.gitbooks.io/deep-learn-javascript/content/  
+http://wtser.gitbooks.io/deep-learn-javascript/content/ 
 >####*正则*
 1. [regexp](http://longze.gitbooks.io/javascript-regexp/content/ ) 
 
@@ -26,3 +29,6 @@ https://leancloud.cn/
 
 #在线代码编辑
 https://coding.net/
+
+#工具类
+[文档转换工具](http://johnmacfarlane.net/pandoc)
