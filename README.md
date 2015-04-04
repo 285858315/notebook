@@ -17,6 +17,11 @@ http://wtser.gitbooks.io/deep-learn-javascript/content/
 #Canvas & SVG
 * [如何为您的网站在Canvas和SVG之间做出选择](https://msdn.microsoft.com/zh-cn/ie/hh377884/)
 
+#Meteor
+[Discover Meteor 中文版](http://zh.discovermeteor.com/)  
+https://github.com/DiscoverMeteor/DiscoverMeteor_zh  
+http://maodou.meteor.com/
+
 #Vue
 * http://cn.vuejs.org/  
 * http://webmaker-mobile-guide.mofodev.net/  
