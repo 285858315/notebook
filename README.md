@@ -1,5 +1,9 @@
 [JavaScript](#A)
 
+#Dart
+[Dart 语言开发 Android 应用（sky）](http://www.jikexueyuan.com/course/848.html)  
+http://www.cndartlang.com/  
+
 #<div id="A">JavaScript</div>
 [标准参考](http://javascript.ruanyifeng.com/)  
 http://www.webplatform.org/  
@@ -33,7 +37,10 @@ http://wtser.gitbooks.io/deep-learn-javascript/content/
 [Discover Meteor 中文版](http://zh.discovermeteor.com/)  
 https://github.com/DiscoverMeteor/DiscoverMeteor_zh  
 http://maodou.meteor.com/  
-[Meteor.js学习资料](http://www.likebin.net/meteorlist.html)
+[Meteor.js学习资料](http://www.likebin.net/meteorlist.html)  
+http://www.icoufen.com/  
+[Meteor中文论坛](http://cmeteor.org/)  
+[优秀的Meteor学习资源](http://blog.csdn.net/aaa1117a8w5s6d/article/details/8854394)  
 
 #Vue
 * http://cn.vuejs.org/  
@@ -51,6 +58,7 @@ http://reactjs.cn/
 * [Ionic](http://ionicframework.com/)  
 * [Kendo UI](http://www.telerik.com/kendo-ui)  [视频](http://www.evget.com/article/2014/3/31/20754.html)  
 * [Kendo UI 中文网](www.kendoapi.com/)  
+* [mui 最接近原生APP体验的高性能框架](https://github.com/dcloudio/mui)  
 * [samurai-native 将Web开发标准带到原生平台](https://github.com/hackers-painters/samurai-native)  
 * [NativeScript - JS 构建跨平台的原生 APP](http://www.nativescript.org/)  
 
@@ -58,6 +66,7 @@ http://reactjs.cn/
 http://browserify.org/  
 http://duojs.org/  
 http://webpack.github.io/  
+
 
 #前端学习
 [移动前端开发经验指南](https://github.com/doyoe/trip)  
@@ -95,6 +104,7 @@ https://coding.net/
 [文档转换工具](http://johnmacfarlane.net/pandoc)  
 [百度思维导图](http://naotu.baidu.com/)  
 [抓包 fiddler](http://gaoboy.com/article/26.html)  
+[LivePool 是一个基于 NodeJS，类似 Fiddler 支持抓包和本地替换的 Web 开发调试工具](https://github.com/rehorn/livepool)  
 
 #常用命令
 *  [端口转发](http://blog.163.com/digoal@126/blog/static/163877040201451464251856/)
@@ -115,7 +125,8 @@ http://khan.github.io/KaTeX/
 
 #翻墙
 http://ggss.so/  
-http://guge.io/
+http://guge.io/  
+http://www.liu16.com/g.html  
 
 #其他  
 [数学排版](https://github.com/Khan/KaTeX) [来源](https://trello.com/c/y6L44BBX/23--)  
