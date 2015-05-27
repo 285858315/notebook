@@ -1,5 +1,8 @@
 [JavaScript](#A)
 
+#Flash
+[Layabox官方网站](http://layabox.com/)  
+
 #Dart
 [Dart 语言开发 Android 应用（sky）](http://www.jikexueyuan.com/course/848.html)  
 http://www.cndartlang.com/  
@@ -18,6 +21,7 @@ http://wtser.gitbooks.io/deep-learn-javascript/content/
 
 #Node
 * [Node.js[4] 第一个模块](http://www.cnblogs.com/luics/archive/2012/11/25/2776361.html)  
+[node.js学习社区](http://www.nodeclass.com/)
 
 #HTML
 [HTML5视频播放器](http://plyr.io/)  
@@ -41,6 +45,9 @@ http://maodou.meteor.com/
 http://www.icoufen.com/  
 [Meteor中文论坛](http://cmeteor.org/)  
 [优秀的Meteor学习资源](http://blog.csdn.net/aaa1117a8w5s6d/article/details/8854394)  
+[Meteor 非官方中文文档](http://d0cs.meteor.com/)  
+http://manual.meteor.com/  
+
 
 #Vue
 * http://cn.vuejs.org/  
@@ -93,6 +100,10 @@ R语言
 
 #大数据
 http://www.ppvke.com/  
+
+#系统架构
+[高可用可伸缩架构实用经验谈](http://www.infoq.com/cn/articles/high-availability-scalable-architecture-practical-experience)  
+
 
 #云服务提供商
 https://leancloud.cn/
