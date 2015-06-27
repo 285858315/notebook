@@ -89,9 +89,14 @@ http://webpack.github.io/
 #Android
 [一个图片处理模块](https://github.com/liaohuqiu/fresco-docs-cn)
 
-#技术文档
+#技术网站
 [windows 开发人员中心](https://dev.windows.com/zh-cn)  
 [Mozilla 开发者网络](https://developer.mozilla.org/zh-CN/)  
+http://javascriptissexy.com/  
+https://www.eventedmind.com/  
+
+#数据结构与算法
+[最用心的在线评测平台和算法交流社区](http://codevs.cn/)  
 
 #机器学习
 [算法，机器学习，深度学习，互联网，开发，创业](http://suanfazu.com/)  
@@ -118,6 +123,12 @@ https://coding.net/
 [LivePool 是一个基于 NodeJS，类似 Fiddler 支持抓包和本地替换的 Web 开发调试工具](https://github.com/rehorn/livepool)  
 
 #常用命令
+*  [防火墙iptables分析](http://blog.chinaunix.net/uid-20662820-id-3553841.html)  
+*  允许HTTPS连接：443端口  
+```shell
+iptables -A INPUT -i eth0 -p tcp --dport 443 -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A OUTPUT -o eth0 -p tcp --sport 443 -m state --state ESTABLISHED -j ACCEPT
+```
 *  [端口转发](http://blog.163.com/digoal@126/blog/static/163877040201451464251856/)
 ```shell
 ssh -R 80:192.168.1.x:80 -b 0.0.0.0 -p 22 username@182.92.88.x -N   
