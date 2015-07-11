@@ -7,10 +7,6 @@
 [Dart 语言开发 Android 应用（sky）](http://www.jikexueyuan.com/course/848.html)  
 http://www.cndartlang.com/  
 
-#<div id="A">JavaScript</div>
-[标准参考](http://javascript.ruanyifeng.com/)  
-http://www.webplatform.org/  
-http://wtser.gitbooks.io/deep-learn-javascript/content/ 
 >####*正则*
 1. [regexp](http://longze.gitbooks.io/javascript-regexp/content/ ) 
 
@@ -21,7 +17,8 @@ http://wtser.gitbooks.io/deep-learn-javascript/content/
 
 #Node
 * [Node.js[4] 第一个模块](http://www.cnblogs.com/luics/archive/2012/11/25/2776361.html)  
-[node.js学习社区](http://www.nodeclass.com/)
+[node.js学习社区](http://www.nodeclass.com/)  
+http://nodeschool.io/zh-cn/  
 
 #HTML
 [HTML5视频播放器](http://plyr.io/)  
@@ -74,11 +71,6 @@ http://browserify.org/
 http://duojs.org/  
 http://webpack.github.io/  
 
-
-#前端学习
-[移动前端开发经验指南](https://github.com/doyoe/trip)  
-[Learn to Code HTML & CSS](http://learn.shayhowe.com/)  
-
 #MongoDB
 [MongoDB 中文社区](http://mongoing.com/)  
 [MongoDB 2.6 中文文档](http://docs.mongoing.com/manual-zh/)  
@@ -89,11 +81,20 @@ http://webpack.github.io/
 #Android
 [一个图片处理模块](https://github.com/liaohuqiu/fresco-docs-cn)
 
-#技术网站
+#<div id="A">技术网站</div>
+[标准参考](http://javascript.ruanyifeng.com/)  
+http://www.webplatform.org/  
+http://wtser.gitbooks.io/deep-learn-javascript/content/ 
+[《Exploring ES6》](https://leanpub.com/exploring-es6/read)  
 [windows 开发人员中心](https://dev.windows.com/zh-cn)  
 [Mozilla 开发者网络](https://developer.mozilla.org/zh-CN/)  
 http://javascriptissexy.com/  
 https://www.eventedmind.com/  
+[w3cschool菜鸟教程](http://www.w3cschool.cc/)  
+[浏览器兼容列表](http://caniuse.com/)  
+[汇智网 - 最前沿的在线互动编程学习平台](http://www.hubwiz.com/)  
+[移动前端开发经验指南](https://github.com/doyoe/trip)  
+[Learn to Code HTML & CSS](http://learn.shayhowe.com/)  
 
 #数据结构与算法
 [最用心的在线评测平台和算法交流社区](http://codevs.cn/)  
