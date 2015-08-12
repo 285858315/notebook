@@ -82,10 +82,9 @@ http://webpack.github.io/
 [一个图片处理模块](https://github.com/liaohuqiu/fresco-docs-cn)
 
 #<div id="A">技术网站</div>
-[标准参考](http://javascript.ruanyifeng.com/)  
-[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)  
+[阮一峰的网络日志](http://www.ruanyifeng.com/blog/) [标准参考](http://javascript.ruanyifeng.com/) [http://es6.ruanyifeng.com/](http://es6.ruanyifeng.com/)  
 http://www.webplatform.org/  
-http://wtser.gitbooks.io/deep-learn-javascript/content/ 
+http://wtser.gitbooks.io/deep-learn-javascript/content/  
 [《Exploring ES6》](https://leanpub.com/exploring-es6/read)  
 [windows 开发人员中心](https://dev.windows.com/zh-cn)  
 [Mozilla 开发者网络](https://developer.mozilla.org/zh-CN/)  
@@ -96,6 +95,7 @@ https://www.eventedmind.com/
 [汇智网 - 最前沿的在线互动编程学习平台](http://www.hubwiz.com/)  
 [移动前端开发经验指南](https://github.com/doyoe/trip)  
 [Learn to Code HTML & CSS](http://learn.shayhowe.com/)  
+http://bonsaiden.github.io/JavaScript-Garden/zh/  
 
 #devops
 
