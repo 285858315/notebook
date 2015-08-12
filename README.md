@@ -83,6 +83,7 @@ http://webpack.github.io/
 
 #<div id="A">技术网站</div>
 [标准参考](http://javascript.ruanyifeng.com/)  
+[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)  
 http://www.webplatform.org/  
 http://wtser.gitbooks.io/deep-learn-javascript/content/ 
 [《Exploring ES6》](https://leanpub.com/exploring-es6/read)  
@@ -96,8 +97,13 @@ https://www.eventedmind.com/
 [移动前端开发经验指南](https://github.com/doyoe/trip)  
 [Learn to Code HTML & CSS](http://learn.shayhowe.com/)  
 
+#devops
+
+#rbac
+
 #数据结构与算法
 [最用心的在线评测平台和算法交流社区](http://codevs.cn/)  
+[计算机科学的基础](http://www.ituring.com.cn/book/1019)  
 
 #机器学习
 [算法，机器学习，深度学习，互联网，开发，创业](http://suanfazu.com/)  
@@ -112,10 +118,13 @@ http://www.ppvke.com/
 
 
 #云服务提供商
-https://leancloud.cn/
+https://leancloud.cn/  
+[OneAPM是一家为企业和开发者提供APM解决方案的服务商](http://www.oneapm.com/)
 
 #在线代码编辑
-https://coding.net/
+https://coding.net/  
+[Cloud9免费云IDE代码编辑平台](https://c9.io/)  
+[实验楼](https://www.shiyanlou.com) https://github.com/glyptodon  
 
 #工具类
 [文档转换工具](http://johnmacfarlane.net/pandoc)  
@@ -140,6 +149,7 @@ http://www.freebuf.com/
 [腾讯安全应急响应中心](http://security.tencent.com/)  
 [黑客讲故事：攻下隔壁女生路由器后，我都做了些什么](http://daily.zhihu.com/story/3603866)  
 [互联网全站HTTPS的时代已经到来](http://blog.csdn.net/luocn99/article/details/39777707)  
+[关注黑客与极客](http://www.freebuf.com/)  
 
 #数字证书
 [沃通数字证书产品和服务](https://buy.wosign.com/) [免费申请](https://buy.wosign.com/freessl.html)  
@@ -150,6 +160,7 @@ http://khan.github.io/KaTeX/
 http://ggss.so/  
 http://guge.io/  
 http://www.liu16.com/g.html  
+http://shadowsocks.com/  
 
 #其他  
 [数学排版](https://github.com/Khan/KaTeX) [来源](https://trello.com/c/y6L44BBX/23--)  
