@@ -98,6 +98,9 @@ http://webpack.github.io/
 * [移动前端开发经验指南](https://github.com/doyoe/trip)  
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/)  
 * http://bonsaiden.github.io/JavaScript-Garden/zh/  
+* [云路课堂](http://yun.lu/)  
+* [专业的实用技能学习平台 - 网易云课堂](http://study.163.com/)  
+* [腾讯课堂](http://ke.qq.com/index.html)  
 
 #devops
 
