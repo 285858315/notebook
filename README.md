@@ -164,6 +164,7 @@ http://khan.github.io/KaTeX/
 #翻墙
 http://ggss.so/  
 http://guge.io/  
+http://guge.in/  
 http://www.liu16.com/g.html  
 http://shadowsocks.com/  
 
