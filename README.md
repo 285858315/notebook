@@ -85,6 +85,7 @@ http://webpack.github.io/
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)  
 * [标准参考](http://javascript.ruanyifeng.com/)  
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/)  
+* [Exploring ES6](http://exploringjs.com/es6/)  
 * http://www.webplatform.org/  
 * http://wtser.gitbooks.io/deep-learn-javascript/content/  
 * [《Exploring ES6》](https://leanpub.com/exploring-es6/read)  
