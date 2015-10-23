@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<title>test</title>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/vue.js"></script>
+<style type="text/css">
+	.log{
+		border-bottom:1px solid red;
+	}
+</style>
+</head>
+<body>
+    <script>
+	'use strict'
+	Vue.config.debug = true
+	var app = new Vue({
+		replace:false,
+		el:"body",
+		data:function(){
+			return {
+				log:[]
+			}
+		},
+		template:'<div class="log" v-for="item in log" track-by="$index">{{item}}</div>',
+		ready:function(){
+			var _s = this
+	    	var socket = io()
+	    	socket.on("log",function(log){
+	    		if(_s.log.length > 10){
+	    			_s.log.pop()
+	    		}
+	    		_s.log.unshift(log)		    		
+	    	})
+		}
+	})
+</script>
+</body>
+</html>
