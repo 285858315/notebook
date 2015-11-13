@@ -65,6 +65,7 @@ http://reactjs.cn/
 * [mui 最接近原生APP体验的高性能框架](https://github.com/dcloudio/mui)  
 * [samurai-native 将Web开发标准带到原生平台](https://github.com/hackers-painters/samurai-native)  
 * [NativeScript - JS 构建跨平台的原生 APP](http://www.nativescript.org/)  
+* [前端收藏夹](http://w3ctrain.github.io/)  
 
 #前端模块化
 http://browserify.org/  
