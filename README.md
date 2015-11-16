@@ -17,8 +17,9 @@ http://www.cndartlang.com/
 
 #Node
 * [Node.js[4] 第一个模块](http://www.cnblogs.com/luics/archive/2012/11/25/2776361.html)  
-[node.js学习社区](http://www.nodeclass.com/)  
-http://nodeschool.io/zh-cn/  
+* [node.js学习社区](http://www.nodeclass.com/)  
+* http://nodeschool.io/zh-cn/  
+* http://www.admin10000.com/nodejs/    
 
 #HTML
 [HTML5视频播放器](http://plyr.io/)  
@@ -75,6 +76,7 @@ http://webpack.github.io/
 #MongoDB
 [MongoDB 中文社区](http://mongoing.com/)  
 [MongoDB 2.6 中文文档](http://docs.mongoing.com/manual-zh/)  
+http://askubuntu.com/questions/617097/mongodb-2-6-does-not-start-on-ubuntu-15-04  
 
 #Flash
 [常用flash air ANE 汇集](http://www.cuo.so/ane-list/index.html)  
