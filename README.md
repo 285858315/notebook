@@ -105,6 +105,10 @@ http://askubuntu.com/questions/617097/mongodb-2-6-does-not-start-on-ubuntu-15-04
 * [云路课堂](http://yun.lu/)  
 * [专业的实用技能学习平台 - 网易云课堂](http://study.163.com/)  
 * [腾讯课堂](http://ke.qq.com/index.html)  
+* [Githuber - 龙虎榜](http://githuber.cn/rank)  
+
+#GIT
+* [GitHub&Git基础_牛客网](http://www.nowcoder.com/courses/2)  
 
 #devops
 
@@ -172,6 +176,7 @@ http://guge.io/
 http://guge.in/  
 http://www.liu16.com/g.html  
 http://shadowsocks.com/  
+https://github.com/CacheBrowser  
 
 #其他  
 [数学排版](https://github.com/Khan/KaTeX) [来源](https://trello.com/c/y6L44BBX/23--)  
