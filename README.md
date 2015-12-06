@@ -45,6 +45,7 @@ http://www.icoufen.com/
 [优秀的Meteor学习资源](http://blog.csdn.net/aaa1117a8w5s6d/article/details/8854394)  
 [Meteor 非官方中文文档](http://d0cs.meteor.com/)  
 http://manual.meteor.com/  
+http://docs.meteorhub.org/#/full/  
 
 
 #Vue
