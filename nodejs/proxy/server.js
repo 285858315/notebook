@@ -1,13 +1,14 @@
 var httpProxy = require('http-proxy')
 var http = require('http')
 var fs = require("fs")
+var moment = require("moment")
 
 //---------------------
 // http
 //---------------------
 var proxy = httpProxy.createProxyServer()
 http.createServer(function (req, res) {
-    console.log(req.url)
+    console.log(moment().format("YYYY-MM-DD HH:mm:ss"),req.url)
     proxy.web(req, res, {
       target: "http://" + req.headers.host
     })
@@ -26,7 +27,7 @@ var httpsProxy = httpProxy.createServer({
   secure: true  
 })
 http.createServer(function (req, res) {
-    console.log(req.url)
+    console.log(moment().format("YYYY-MM-DD HH:mm:ss"),req.url)
     httpsProxy.web(req, res, {
       target: "https://" + req.headers.host
     })
